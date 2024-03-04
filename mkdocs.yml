@@ -1,0 +1,10 @@
+site_name: ZenScript
+theme:
+  name: material
+  icon:
+    admonition:
+      <type>: material/alert
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

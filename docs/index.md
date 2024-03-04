@@ -1,0 +1,6 @@
+# Welcome to ZenScript
+
+!!! danger
+    ZenScript is a unfinished product and should not be used in production.
+
+This program, called ZenScript, is designed to facilitate the creation of HTML documents using a simplified programming language. Users input ZenScript code, which contains commands and content to be converted into HTML format. The program parses the ZenScript code and translates it into corresponding HTML elements, such as titles, headings, paragraphs, and links, among others. Additionally, it allows for customization of fonts and includes basic HTML structure elements like `<html>`, `<head>`, and `<body>`. Once the ZenScript code is processed, the program outputs the resulting HTML code, which can be saved to a file for use in web development projects. Overall, ZenScript aims to streamline the process of creating HTML documents by providing a more intuitive and structured approach.
